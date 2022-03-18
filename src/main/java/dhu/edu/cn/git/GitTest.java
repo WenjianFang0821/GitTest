@@ -1,0 +1,12 @@
+package dhu.edu.cn.git;
+
+/**
+ * @Author Fwj
+ * @Date 2022/3/18 18:45
+ * @Version 1.0
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git !!!");
+    }
+}
